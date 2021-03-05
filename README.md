@@ -3,6 +3,7 @@
 <details markdown="1">
 <summary>계정계</summary>
 
+<img src="./architecture.jpg"><br>
 본연의 금융 업무 처리 시스템. 고객의 거래 데이터 자체를 다루는 영역<br>
 
 업무: 계좌 개설 및 폐쇄, 입출금,이체, 외환 시스템 처리 등<br>
