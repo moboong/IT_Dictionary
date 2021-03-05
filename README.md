@@ -1,4 +1,4 @@
-## IT용어 사전
+## IT 용어 사전
 
 <details markdown="1">
 <summary>계정계</summary>
