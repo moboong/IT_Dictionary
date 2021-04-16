@@ -123,3 +123,27 @@ Input -> Processing -> Output
 데브옵스(DevOps)는 소프트웨어의 개발(Development)과 운영(Operations)의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화를 말한다.
 
 </details>
+
+<details markdown="1">
+<summary>시스템 구성도</summary>
+
+<img src="./system.png"><br>
+
+</details>
+
+<details markdown="1">
+<summary>PM & PL</summary>
+
+Project Manager : 작전 담당 중대장 역할<br>
+Project Leader : 분대장 역할<br>
+피라미드 구조의 관리에서 <br>
+
+</details>
+
+<details markdown="1">
+<summary>아키텍터</summary>
+
+소프트웨어 아키텍트(software architect)는 전문가로 간주되는 소프트웨어 개발자로서,<br>
+고수준의 설계적 결정을 수행하고 소프트웨어 코딩 표준, 도구, 플랫폼을 포함한 기술 표준을 지시한다.
+
+</details>
