@@ -147,3 +147,28 @@ Project Leader : 분대장 역할<br>
 고수준의 설계적 결정을 수행하고 소프트웨어 코딩 표준, 도구, 플랫폼을 포함한 기술 표준을 지시한다.
 
 </details>
+
+<details markdown="1">
+<summary>아키텍처 직군</summary>
+
+SW아키텍트<br>
+위에있음.<br>
+DA: Data Architect<br>
+비즈니스나 프로젝트 전체의 데이터와 관련된 아키텍처를 담당합니다.<br>
+회사에 어떠한 데이터들이 있는지, 그리고 어떤 데이터가 필요한지 등에 대해 종합적으로 분석하고 어떻게 데이터를 접근-처리-관리할 것인지에 대해 설계합니다.
+TA: Technical Architect<br>
+비지니스를 운영하기 위한 IT 시스템의 환경을 설계하는 역할을 주로 담당합니다.(네트워크 부터 서버, 소프트웨어 등을 어떻게 구성할 것인지에 대한 설계를 수행)
+https://www.stevenjlee.net/2020/06/04/%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8-architect-ea-ba-sa-ta-aa-da/
+
+</details>
+
+<details markdown="1">
+<summary>프로젝트관리 직군</summary>
+
+프로젝트 관리<br>
+개발은 아웃소싱하고 그 프로젝트를 관리하는 직군.<br>
+소프트웨어 품질관리<br>
+개발된 소프트웨어의 품질을 끌어올리는 역할.<br>
+정보보호<br>
+
+</details>
