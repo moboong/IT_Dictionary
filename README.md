@@ -94,3 +94,18 @@ Cleansing(정제)<br>
 가상화 서버에 대한 지식과 기술은 필수적이다.<br>
 
 </details>
+
+<details markdown="1">
+<summary>화이트 바이저</summary>
+
+??
+
+</details>
+
+<details markdown="1">
+<summary>DB와 DBMS의 차이</summary>
+
+DB는 data들을 얻기위해 효율적으로 저장된 집합체이고.<br>
+DBMS는 이러한 DB를 쉽게 만들고 관리하는 여러가지 프로그램들이 모인 하나의 시스템을 뜻한다. 데이터베이스 관리시스템.<br>
+
+</details>
