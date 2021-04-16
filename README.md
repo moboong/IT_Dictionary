@@ -109,3 +109,17 @@ DB는 data들을 얻기위해 효율적으로 저장된 집합체이고.<br>
 DBMS는 이러한 DB를 쉽게 만들고 관리하는 여러가지 프로그램들이 모인 하나의 시스템을 뜻한다. 데이터베이스 관리시스템.<br>
 
 </details>
+
+<details markdown="1">
+<summary>IPO</summary>
+
+Input -> Processing -> Output
+
+</details>
+
+<details markdown="1">
+<summary>DevOps</summary>
+
+데브옵스(DevOps)는 소프트웨어의 개발(Development)과 운영(Operations)의 합성어로서, 소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화를 말한다.
+
+</details>
