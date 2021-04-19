@@ -172,3 +172,30 @@ https://www.stevenjlee.net/2020/06/04/%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%9
 정보보호<br>
 
 </details>
+
+<details markdown="1">
+<summary>Client와 Server</summary>
+
+  ㅇ 클라이언트 (Client)<br>
+     - 영어 뜻 자체로는 고객을 의미<br>
+        . 클라이언트는 1 이상의 서버 제공 서비스를 사용하는 소비자의 개념<br>
+     - 클라이언트/서버 모델에서, <br><br>
+        . 네트워크를 이용하여 서버(Server)측에 서비스 요청을 의뢰하는 측<br>
+           .. 웹 브라우저, 데스크톱 프로그램, 모바일 앱, 다른 서버에 요청을 보내는 서버 등<br>
+
+  ㅇ 서버 (Server)<br>
+     - 클라이언트들이 요구하는 각종 서비스를 제공하는 측<br>
+        . 특정 역할에 특화된 것<br>
+     - 클라이언트/서버 모델에서,<br>
+        . 네트워크 상에 구현된 하드웨어 또는 소프트웨어로써, 서비스의 요청을 받는 측<br>
+
+=> 한 머신은 클라이언트이자 동시에 서버가 될 수 있다.<br>
+</details>
+
+<details markdown="1">
+<summary>하이퍼 바이저 & 도커</summary>
+
+https://m.blog.naver.com/PostView.nhn?blogId=tommybee&logNo=221141977081&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+</details>
+
