@@ -199,3 +199,52 @@ https://m.blog.naver.com/PostView.nhn?blogId=tommybee&logNo=221141977081&proxyRe
 
 </details>
 
+
+
+<details markdown="1">
+<summary>1일차 과제</summary>
+
+<details markdown="1">
+<summary>1. DB vs DBMS 정의, 사례, 차이점</summary>
+DB란 Database로, 여러사람이 효율적으로 공유하고 사용할 목적으로 만들어진 data들의 집합이다.<br>
+DBMS란 Database Management System으로, DB를 효율적으로 생산하고 관리하기 위해 만들어진 소프트웨어다.<br>
+예를 들어 한 기업의 내부에 고객DB, 생산DB, 판매DB 등이 존재한다면 여기서 각각의 DB가 데이터베이스이고<br>
+이를 관리하는 오라클이 DBMS이다.<br>
+DBMS에는 계층형, 네트워크형, 관계형, NoSQL형이 존재한다.<br>
+각각 {IBM의 IMS}, {DBTG}, {Oracle, MySQL}, {MongoDB, MariaDB}<br>
+</details>
+
+<details markdown="1">
+<summary>2. RDBMS 정의 및 개념, R이란?</summary>
+
+관계형 데이터 모델에 기초를 둔 데이터베이스가 RDB이고 이러한 RDB를 수정 관리하는 소프트웨어가 RDBMS이다.<br>
+여기서 R은 Relational의 의미다.<br>
+관계란 같은 속성을 지닌 튜플들의 모임으로 정의된다. 
+
+</details>
+
+<details markdown="1">
+<summary>3. SQL Syntax Diagram</summary>
+
+</details>
+
+<details markdown="1">
+<summary>4. Connection vs Session</summary>
+
+</details>
+
+<details markdown="1">
+<summary>5. 데이터 사이에 , 를 삽입하는 예제.</summary>
+
+SELECT EMPNO||','||ENAME||','||JOB||','||MGR||','||HIREDATE||','||SAL||','||COMM||','||DEPTNO FROM EMP;
+
+</details>
+
+<details markdown="1">
+<summary>6. SELECT * FROM TAB; 용도</summary>
+
+생성된 전체 테이블들의 목록을 볼 수 있어요.
+
+</details>
+
+</details>
