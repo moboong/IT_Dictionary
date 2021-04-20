@@ -243,7 +243,27 @@ SELECT EMPNO||','||ENAME||','||JOB||','||MGR||','||HIREDATE||','||SAL||','||COMM
 <details markdown="1">
 <summary>6. SELECT * FROM TAB; 용도</summary>
 
-생성된 전체 테이블들의 목록을 볼 수 있어요.
+내가 사용할 수 있는 테이블의 리스트를 볼 수 있다.
+
+</details>
+
+</details>
+
+
+
+<details markdown="1">
+<summary>2일차 과제</summary>
+
+<details markdown="1">
+<summary>1. SYSDATE & SYSTIMESTAMP</summary>
+
+select to_char(SYSTIMESTAMP, 'YY-MM-DD HH:MM:SS/FF2') FROM dual;<br>
+select to_char(SYSTIMESTAMP, 'YY-MM-DD HH:MM:SS/FF3') FROM dual;<br>
+
++ sysdate 시간 안나오는 이유<br>
+-> default format이 'RR/MM/DD'여서 연도,월,일 만 나왔던 것이었따..!!<br>
+-> SELECT value FROM V$NLS_PARAMETERS WHERE parameter = 'NLS_DATE_FORMAT';<br>
+-> ALTER SESSION SET NLS_DATE_FORMAT = 'YYYY/MM/DD HH:MI:SS'; 이를 통해 포맷 변경 가능<br>
 
 </details>
 
