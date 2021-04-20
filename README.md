@@ -267,4 +267,13 @@ select to_char(SYSTIMESTAMP, 'YY-MM-DD HH:MM:SS/FF3') FROM dual;<br>
 
 </details>
 
+<details markdown="1">
+<summary>2. SELECT SAL,COMM,NVL(COMM,SAL),nvl2(COMM,SAL,0), NULLIF(JOB,'MANAGER') FROM emp;</summary>
+
+NVL(COMM,SAL) -> COMM 값 중에 null이면 SAL을 넣어<br>
+nvl2(COMM,SAL,0) -> COMM 값 중에 null이면 0을 넣고 null이 아니면 SAL을 넣어<br>
+NULLIF(JOB, ‘MANAGER) -> JOB칼럼을 돌면서 MANAGER를 null로 바꿔줘.<br>
+
+</details>
+
 </details>
