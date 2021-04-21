@@ -256,6 +256,7 @@ SELECT EMPNO||','||ENAME||','||JOB||','||MGR||','||HIREDATE||','||SAL||','||COMM
 <details markdown="1">
 <summary>2일차 과제</summary>
 
+---
 <details markdown="1">
 <summary>1. SYSDATE & SYSTIMESTAMP</summary>
 
@@ -278,4 +279,5 @@ NULLIF(JOB, ‘MANAGER) -> JOB칼럼을 돌면서 MANAGER를 null로 바꿔줘.<
 
 </details>
 
+---
 </details>
