@@ -203,6 +203,7 @@ https://m.blog.naver.com/PostView.nhn?blogId=tommybee&logNo=221141977081&proxyRe
 
 <details markdown="1">
 <summary>1일차 과제</summary>
+---
 
 <details markdown="1">
 <summary>1. DB vs DBMS 정의, 사례, 차이점</summary>
@@ -247,6 +248,7 @@ SELECT EMPNO||','||ENAME||','||JOB||','||MGR||','||HIREDATE||','||SAL||','||COMM
 
 </details>
 
+---
 </details>
 
 
