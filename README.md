@@ -203,8 +203,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=tommybee&logNo=221141977081&proxyRe
 
 <details markdown="1">
 <summary>1일차 과제</summary>
----
 
+---
 <details markdown="1">
 <summary>1. DB vs DBMS 정의, 사례, 차이점</summary>
 DB란 Database로, 여러사람이 효율적으로 공유하고 사용할 목적으로 만들어진 data들의 집합이다.<br>
